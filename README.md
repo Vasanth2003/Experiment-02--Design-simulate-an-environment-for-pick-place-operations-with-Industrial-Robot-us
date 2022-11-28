@@ -99,9 +99,11 @@ raise Exception("""Your license does not allow generating programs with more tha
  
 ~~~
 ### SIMULATION
-![203839408-ad748d1b-3494-4e31-ae76-8b39a8460488](https://user-images.githubusercontent.com/87744906/204144931-9c![203839470-c13553e4-4888-4020-b6b0-c76dae7c583f](https://user-images.githubusercontent.com/87744906/204144934-2281572b-9e63-4625-ba5e-40836719e683.png)
-8a5401-9270-4c1c-a40c-8aec7e02719b.png)
-![203839481-a40612dc-37c1-4fef-bb8b-8bdfc9f8a035](https://user-images.githubusercontent.com/87744906/204144938-1c640376-0526-492f-90fe-5af59c13775a.png)
+![203839408-ad748d1b-3494-4e31-ae76-8b39a8460488](https://user-images.githubusercontent.com/87744906/204201466-a2f925fa-5a94-49d5-8389-df41f3950b50.png)
+
+![203839470-c13553e4-4888-4020-b6b0-c76dae7c583f](https://user-images.githubusercontent.com/87744906/204201395-defeb563-18c3-4a35-89ef-b7713bf1d340.png)
+![203839481-a40612dc-37c1-4fef-bb8b-8bdfc9f8a035](https://user-images.githubusercontent.com/87744906/204201412-02e52179-4b39-40bd-bfb2-4476412540cb.png)
+
 
 ### RESULTS :  
 An environment for pick & place operations with Industrial Robot has been created and the simulation has been completed successfully using Robo DK software.
